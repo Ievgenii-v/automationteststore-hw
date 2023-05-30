@@ -1,0 +1,25 @@
+{
+  "name": "automationteststore-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ievgenii-v/automationteststore-hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ievgenii-v/automationteststore-hw/issues"
+  },
+  "homepage": "https://github.com/Ievgenii-v/automationteststore-hw#readme",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2"
+  }
+}
